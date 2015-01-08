@@ -1,3 +1,4 @@
+top
 stuff at top
 non-conflicting header
 more stuff
@@ -8,3 +9,4 @@ a
 stuff at bottom
 and more
 a line
+bottom
