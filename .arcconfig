@@ -1,4 +1,5 @@
 {
   "project.name" : "Practice",
-  "phabricator.uri" : "http:\/\/130.211.130.17"
+  "phabricator.uri" : "https://phabricator.internal.xperiel.com",
+  "repository.callsign" : "H"
 }
